@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/RCOWebDemo/static/css/main.15dc5c86.css",
+    "main.js": "/RCOWebDemo/static/js/main.8f8944ad.js",
+    "static/media/brandBanner.jpg": "/RCOWebDemo/static/media/brandBanner.2541860e721025109460.jpg",
+    "static/media/carouselImage3.jpg": "/RCOWebDemo/static/media/carouselImage3.d28b5df0594e2bfef390.jpg",
+    "static/media/carouselImage5.jpg": "/RCOWebDemo/static/media/carouselImage5.1f7247fc1766e2b0813e.jpg",
+    "static/media/carouselImage1.jpg": "/RCOWebDemo/static/media/carouselImage1.1b0fc239d51542641401.jpg",
+    "static/media/carouselImage2.jpg": "/RCOWebDemo/static/media/carouselImage2.c6db54e72cdae85cd0bf.jpg",
+    "static/media/carouselImage4.jpg": "/RCOWebDemo/static/media/carouselImage4.bccf6cb8e6292799e47b.jpg",
+    "static/media/contactus.jpg": "/RCOWebDemo/static/media/contactus.49e280c5beb60d8cfa00.jpg",
+    "static/media/About.jpg": "/RCOWebDemo/static/media/About.964e39b2a761f1856842.jpg",
+    "static/media/carouselImage6.jpg": "/RCOWebDemo/static/media/carouselImage6.271a4101805e35f64317.jpg",
+    "static/media/5-2.jpg": "/RCOWebDemo/static/media/5-2.c3a32cb1185613481852.jpg",
+    "static/media/5-6.jpg": "/RCOWebDemo/static/media/5-6.b1a47ffcfd24e1e509c7.jpg",
+    "static/media/5-8.jpg": "/RCOWebDemo/static/media/5-8.32f6990d9237b4186162.jpg",
+    "static/media/5-4.jpg": "/RCOWebDemo/static/media/5-4.d9a460cffd90de13b2ae.jpg",
+    "static/media/5-9.jpg": "/RCOWebDemo/static/media/5-9.f1dc59aeaa708a9e7532.jpg",
+    "static/media/5-3.jpg": "/RCOWebDemo/static/media/5-3.313b9f5c64f480d69f0b.jpg",
+    "static/media/slick.svg": "/RCOWebDemo/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/RCOWebDemo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/RCOWebDemo/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/RCOWebDemo/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/RCOWebDemo/index.html",
+    "main.15dc5c86.css.map": "/RCOWebDemo/static/css/main.15dc5c86.css.map",
+    "main.8f8944ad.js.map": "/RCOWebDemo/static/js/main.8f8944ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15dc5c86.css",
+    "static/js/main.8f8944ad.js"
+  ]
+}
